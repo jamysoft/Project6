@@ -1,5 +1,6 @@
 # 🌱Project6
-C’est le 6éme projet de mon parcours Développeur d'application - Android chez openclassrooms: « Analysez les besoins de votre client pour son groupe de pizzerias »
+C’est le 6éme projet de mon parcours Développeur d'application - Android chez openclassrooms: « Analysez les besoins de votre client pour son groupe de pizzerias»
+
 Les livrables attendus :
   - Un document (PDF) de spécifications fonctionnelles comprenant :
            - Les différents acteurs interagissant avec le futur système.
